@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 14 Mar 2021 12:43:23 at http://t.commonsupport.com/hotera/index-5.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://t.commonsupport.com/hotera/index-5.html -O1 "C:\My Web Sites\xyz7" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:01:15	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/css/custom-animate.css (from t.commonsupport.com/hotera/css/style.css)
+13:01:15	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/featured-image-7.jpg (from t.commonsupport.com/hotera/index-2.html)
+13:01:15	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/icons/map-marker.png (from t.commonsupport.com/hotera/index-2.html)
+13:01:15	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/featured-image-33.jpg (from t.commonsupport.com/hotera/rooms-list.html)
+13:01:16	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/background/banner-image-9.jpg (from t.commonsupport.com/hotera/room-single.html)
+13:01:16	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/featured-image-19.jpg (from t.commonsupport.com/hotera/about.html)
+13:01:16	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/team-3.jpg (from t.commonsupport.com/hotera/team.html)
+13:01:16	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/featured-image-40.jpg (from t.commonsupport.com/hotera/packages.html)
+13:01:23	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/featured-image-49.jpg (from t.commonsupport.com/hotera/package-single.html)
+13:01:29	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/background/banner-image-3.jpg (from t.commonsupport.com/hotera/events.html)
+13:01:29	Error: 	"Not Found" (404) at link t.commonsupport.com/hotera/www.example.com (from t.commonsupport.com/hotera/event-single.html)
+13:01:29	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/gallery/22.jpg (from t.commonsupport.com/hotera/gallery-masonry.html)
+13:01:31	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/background/banner-image-8.jpg (from t.commonsupport.com/hotera/restaurant.html)
+13:01:33	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/featured-image-52.jpg (from t.commonsupport.com/hotera/restaurant.html)
+13:01:43	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/news-image-13.jpg (from t.commonsupport.com/hotera/blog-grid.html)
+13:01:56	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/news-image-17.jpg (from t.commonsupport.com/hotera/blog.html)
+13:01:57	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/news-image-20.jpg (from t.commonsupport.com/hotera/blog.html)
+13:01:57	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/fonts/fa-brands-400.woff (from t.commonsupport.com/hotera/css/fontawesome-all.css)
+13:02:13	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/fonts/fa-brands-400.svg (from t.commonsupport.com/hotera/css/fontawesome-all.css)
+13:02:13	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/fonts/fa-regular-400.woff (from t.commonsupport.com/hotera/css/fontawesome-all.css)
+13:02:17	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/fonts/fa-solid-900.eot? (from t.commonsupport.com/hotera/css/fontawesome-all.css)
+13:02:19	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/fonts/fa-solid-900.ttf (from t.commonsupport.com/hotera/css/fontawesome-all.css)
+13:02:24	Error: 	"Not Found" (404) at link t.commonsupport.com/hotera/css/owl.video.play.png (from t.commonsupport.com/hotera/css/owl.css)
+13:02:24	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/fonts/Flaticon.woff (from t.commonsupport.com/hotera/css/flaticon.css)
+13:02:25	Error: 	"Not Found" (404) at link t.commonsupport.com/hotera/css/images/ui-icons_777620_256x240.png (from t.commonsupport.com/hotera/css/jquery-ui.css)
+13:02:25	Error: 	"Not Found" (404) at link t.commonsupport.com/hotera/css/images/ui-icons_cc0000_256x240.png (from t.commonsupport.com/hotera/css/jquery-ui.css)
+13:02:25	Error: 	"Not Found" (404) at link t.commonsupport.com/hotera/css/mCSB_buttons.html (from t.commonsupport.com/hotera/css/scrollbar.css)
+13:02:25	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/featured-image-7.jpg (from t.commonsupport.com/hotera/index-2.html)
+13:02:31	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/featured-image-33.jpg (from t.commonsupport.com/hotera/rooms-list.html)
+13:02:32	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/background/banner-image-3.jpg (from t.commonsupport.com/hotera/events.html)
+13:02:32	Warning: 	Retry after error -4 (No data (connection closed)) at link t.commonsupport.com/hotera/images/resource/news-image-20.jpg (from t.commonsupport.com/hotera/blog.html)
+13:02:40	Error: 	"No data (connection closed)" (-4) after 2 retries at link t.commonsupport.com/hotera/images/resource/featured-image-33.jpg (from t.commonsupport.com/hotera/rooms-list.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 minutes 24 seconds : 311 links scanned, 278 files written (33607798 bytes overall) [29063966 bytes received at 24969 bytes/sec], 6794280 bytes transferred using HTTP compression in 75 files, ratio 31%, 2.7 requests per connection
+(6 errors, 26 warnings, 0 messages)
