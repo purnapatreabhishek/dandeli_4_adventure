@@ -525,13 +525,12 @@ img{
 	bottom:20px;
 	width:54px;
 	height:54px;
-	color:#ffffff;
 	font-size:30px;
 	line-height:54px;
 	text-align:center;
 	z-index:100;
 	cursor:pointer;
-	background:#25283a;
+	background:none;
 	border-radius: 0px;
 	margin-left:-26px;
 	display:none;
@@ -543,9 +542,33 @@ img{
 }
 
 .scroll-to-top:hover{
-	background:#ff6000;
-	color:#ffffff;
-	box-shadow:2px 2px 0px #25283a;
+	background:none;
+}
+
+.scroll-to-top1{
+	position:fixed;
+	left:40px;
+	bottom:20px;
+	width: 60px;
+	height:60px;
+	font-size:30px;
+	line-height:54px;
+	text-align:center;
+	z-index:100;
+	cursor:pointer;
+	background:none;
+	border-radius: 0px;
+	margin-left:-26px;
+	display:none;
+	-webkit-transition:all 300ms ease;
+	-moz-transition:all 300ms ease;
+	-ms-transition:all 300ms ease;
+	-o-transition:all 300ms ease;
+	transition:all 300ms ease;
+}
+
+.scroll-to-top1:hover{
+	background:none;
 }
 
 
@@ -614,8 +637,9 @@ img{
 .header-style-one .header-upper .logo-box .logo img{
 	position: relative;
 	display: inline-block;
+	margin-top: 20px;
 	max-width: 100%;
-	max-height: 80px;
+	max-height: 60px;
 	z-index:1;
 }
 
